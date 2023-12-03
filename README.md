@@ -100,7 +100,7 @@ DAX Data Types
 
 Model data types aren't the same as DAX data types, though a direct relationship exists between them.
 
-![dax-data-types.png](.\images\dax-data-types.png)
+![dax-data-types.png](images\dax-data-types.png)
 
 BLANK data type
 
