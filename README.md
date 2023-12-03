@@ -37,7 +37,7 @@ The formula is evaluated for each table row and it returns a single value.
 
 The formula is evaluated when the semantic model is refreshed or table is queried.
 
-![dax-fields-pane-calculated-column-ss](.\images\dax-fields-pane-calculated-column-ss.png)
+![dax-fields-pane-calculated-column-ss](images/dax-fields-pane-calculated-column-ss.png)
 
 #### Measures
 
